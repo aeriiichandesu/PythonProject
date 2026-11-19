@@ -1,0 +1,13 @@
+# Versions recorded from the original local environment.
+langchain==1.4.0
+langchain-core==1.6.3
+langchain-community==0.4.2
+langchain-chroma==1.1.0
+langchain-deepseek==1.1.0
+langchain-text-splitters==1.1.2
+langgraph==1.2.11
+streamlit==1.64.0
+python-dotenv==1.2.3
+pyyaml==6.0.3
+dashscope==1.27.6
+pypdf==6.19.0
